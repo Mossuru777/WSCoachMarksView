@@ -54,6 +54,7 @@
 
 - (id)initWithFrame:(CGRect)frame coachMarks:(NSArray *)marks;
 - (void)start;
+- (void)cleanup;
 
 @end
 
